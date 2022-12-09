@@ -2,9 +2,7 @@
 
 Twitter clone built using React, Redux.
 
-Demo - [https://twitter-musk.vercel.app/#/](https://twitter-musk.vercel.app/#/)
-
-Backend Repository - [https://github.com/RisingGeek/twitter-clone-backend](https://github.com/RisingGeek/twitter-clone-backend)
+Backend Repository - [https://github.com/rutvij-fsd/rutvijPatel_twitterClone/tree/master/twitter-clone-backend-master](https://github.com/rutvij-fsd/rutvijPatel_twitterClone/tree/master/twitter-clone-backend-master)
 
 ## Features
 
@@ -16,11 +14,6 @@ Backend Repository - [https://github.com/RisingGeek/twitter-clone-backend](https
 6. Search users in explore section
 7. Add bookmarks
 8. Dark mode
-
-## Upcoming Features
-
-1. Notifications
-2. Live updations of like, retweet
 
 ## Run locally
 
@@ -34,13 +27,7 @@ Note: You need to also setup the backend repository for APIs to work
 
 - `npm install && npm start`
 
-## Demo account
+## Just Sign Up and create account for Demo
 
-```javascript
-username: demoaccount
-password: 12345678
-```
+Any Doubt Contact Me On: rutvijpatel121@gmail.com
 
-## Demo
-
-![Feed](demo/feed.png)
